@@ -12,7 +12,9 @@ namespace SeparateSourceControlPractice
         {
             Console.WriteLine("Hello!! (Press 'Enter' to continue)");
             Console.ReadKey();
-            Console.WriteLine("I am practicing with Source Control!");
+            Console.WriteLine("I am practicing with Source Control! (Press 'Enter' to continue)");
+            Console.ReadKey();
+            Console.WriteLine("If you get the idea, you can exit out by simply pressing 'Enter'. Thank you!!");
             Console.ReadKey();
         }
     }
