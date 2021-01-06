@@ -10,6 +10,8 @@ namespace SeparateSourceControlPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!! (Press 'Enter' to continue)");
+            Console.ReadKey();
             Console.WriteLine("I am practicing with Source Control!");
             Console.ReadKey();
         }
